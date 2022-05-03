@@ -1,0 +1,3 @@
+- Hi, I’m @NaylsonFerreira
+- I’m interested in Python and ReactJS
+- I’m currently learning AWS
