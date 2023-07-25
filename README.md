@@ -1,5 +1,5 @@
 ## Naylson Ferreira
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaylsonFerreira&show_icons=true&theme=transparent)
+
 ### Backend Skills
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,fastapi,django&theme=dark)](https://skillicons.dev)
 
