@@ -1,7 +1,7 @@
 ## Naylson Ferreira
 
 ### Backend Skills
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,fastapi,django&theme=dark)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,fastapi,django,nestjs,rabbitmq&theme=dark)](https://skillicons.dev)
 
 ### Frontend Skills
 [![Frontend Skills](https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,angular&theme=dark)](https://skillicons.dev)
